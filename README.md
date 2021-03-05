@@ -1,5 +1,5 @@
 # MISDc
-Matlab implementation of MISDc continuous rainfall-runoff model (lumped version)
+Matlab implementation of MISDc continuous rainfall-runoff model (1-layer and lumped version)
 
 # Main References
 
