@@ -1,7 +1,11 @@
-# MISDc
-Matlab implementation of MISDc continuous rainfall-runoff model (1-layer and lumped version)
+=======
+MISDc 2 Layer model
+=======
+Matlab implementation of MISDc continuous rainfall-runoff model (2-layer and lumped version).
+In Test_data and Results you can find the dataset for testing the code and the corresponding results.
 
-# Main References
+References
+==========
 
 Brocca, L., Melone, F., Moramarco, T. (2011). Distributed rainfall-runoff modelling for flood frequency estimation and flood forecasting. Hydrological Processes, 25 (18), 2801-2813, doi:10.1002/hyp.8042.
 
