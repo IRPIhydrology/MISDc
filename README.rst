@@ -1,7 +1,8 @@
 =======
 MISDc 2 Layer model
 =======
-Matlab implementation of MISDc continuous rainfall-runoff model (2-layer and lumped version) 
+Matlab implementation of MISDc continuous rainfall-runoff model (2-layer and lumped version). 
+
 [Brocca_etal_2011]_
 [Massari_et_al_2015]_
 [Ciabatta_et_al_2016]_
