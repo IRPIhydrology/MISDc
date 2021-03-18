@@ -1,7 +1,12 @@
 =======
 MISDc 2 Layer model
 =======
-Matlab implementation of MISDc continuous rainfall-runoff model (2-layer and lumped version) [Brocca_etal_2011]_.
+Matlab implementation of MISDc continuous rainfall-runoff model (2-layer and lumped version) 
+[Brocca_etal_2011]_
+[Massari_et_al_2015]_
+[Ciabatta_et_al_2016]_
+[Camici_et_al_2020]_.
+
 
 In Test_data and Results you can find the dataset for testing the code and the corresponding results.
 Just run the script "run_MILc_WEB_2L_snow_IE.m" to run the model at hourly and daily temporal resolution.
