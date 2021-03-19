@@ -1,6 +1,6 @@
 %% MISDc 2 layer daily
 clc,clear,close all
-inputdata=load('migi_0205_daily.txt');
+inputdata=load('Test_data\migi_0205_daily.txt');
 area=137; % basin area
 FIG=1;
 NPAR=10;
@@ -11,7 +11,7 @@ X_ini=ones(NPAR,1)*.1;X_ini(1)=0.05;
         
 %% MISDc 2 layer hourly
 clc,clear,close all
-inputdata=load('migi_0205.txt');
+inputdata=load('Test_data\migi_0205.txt');
 area=137; % basin area
 FIG=1;
 NPAR=10;
