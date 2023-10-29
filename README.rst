@@ -36,8 +36,8 @@ References
 
 .. [Camici_et_al_2020] Camici, S, Massari, C., Ciabatta, L., Marchesini, I., Brocca, L. (2020). Which rainfall metric is more informative about the flood simulation performance? A comprehensive assessment on 1318 basins over Europe. Hydrology and Earth System Sciences, 24, 4869–4885, doi:10.5194/hess-24-4869-2020. https://doi.org/10.5194/hess-24-4869-2020
 
-# References list
-
+References list 2010-2023
+==========
 1.	Brocca, L., Zhao, W., Lu, H. (2023). High-resolution observations from space to address new applications in hydrology. The Innovation, 4(3), 100437, doi:10.1016/j.xinn.2023.100437. https://doi.org/10.1016/j.xinn.2023.100437.
 2.	Tramblay, Y., El Khalki Mahdi, Ciabatta, L., Camici, S., Hanich, L., El Mehdi Saidi, M., Ezzahouani, A., Benaabidate, L., Mahé, G., Brocca, L. (2023). River runoff estimation with satellite rainfall in Morocco. Hydrological Sciences Journal, 68(3), 474-487, doi:10.1080/02626667.2023.2171295. https://doi.org/10.1080/02626667.2023.2171295
 3.	Almagro, A., Tarso, P., Brocca, L. (2021). Assessment of near real-time satellite rainfall products on estimating river discharge and hydrologic signatures in Brazilian catchments. Journal of Hydrology, 603, 126897, doi:10.1016/j.jhydrol.2021.126897. https://doi.org/10.1016/j.jhydrol.2021.126897
